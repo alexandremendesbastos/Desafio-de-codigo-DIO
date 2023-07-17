@@ -1,1 +1,1 @@
-
+Nesta etapa estou iniciando a independência de contas, onde os dados de cada conta ficará armazenado em seu próprio pedaço do dicionário, assim evitando a colisão de informações.
